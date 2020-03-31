@@ -346,7 +346,7 @@ class Lazy_Images {
 		wp_enqueue_script(
 			'jetpack-lazy-images',
 			plugins_url( 'js/lazy-images.js', __FILE__ ),
-			array( 'jquery' ),
+			array(),
 			LAZY_IMAGES_VERSION,
 			true
 		);

@@ -4,12 +4,12 @@
  * Plugin Name: Lazy Images Without Jetpack
  * Description: Speed up your site and create a smoother viewing experience by loading images as visitors scroll down the screen, instead of all at once. Based on Lazy Images module, from Jetpack plugin, http://wordpress.org/plugins/jetpack/
  * Author: Nico Kaiser
- * Version: 1.1
+ * Version: 1.2
  * Author URI: https://kaiser.me
  * License: GPL2+
  */
 
-define( 'LAZY_IMAGES_VERSION', '1.1' );
+define( 'LAZY_IMAGES_VERSION', '1.2' );
 
 /**
  * This module relies heavily upon the Lazy Load plugin which was worked on by

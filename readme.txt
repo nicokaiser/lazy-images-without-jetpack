@@ -3,7 +3,7 @@ Contributors: nicokaiser
 Tags: mobile, theme, fast images, fast image, image, lazy, lazy load, lazyload, images, lazy images, thumbnail, image lazy load, lazy loading, load, loading
 Requires at least: 5.2
 Requires PHP: 5.6
-Tested up to: 5.5
+Tested up to: 5.6
 
 Lazy image loading for a faster mobile experience.
 
